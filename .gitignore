@@ -1,0 +1,7 @@
+# EMACS TM
+*~
+*.log
+*vagrant/
+*.pyc
+*__pycache__
+.venv/*
