@@ -1,3 +1,5 @@
 flask
 supervisor
 gunicorn
+flask-redis
+redis
